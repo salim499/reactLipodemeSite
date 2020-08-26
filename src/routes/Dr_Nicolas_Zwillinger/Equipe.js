@@ -7,7 +7,7 @@ import * as ReactBootStrap from 'react-bootstrap';
 function Equipe(){
     return(        
       <FooterContainer>
-       /* <div className="" style={{msAlignSelf:"center"}} >
+       {/* <div className="" style={{msAlignSelf:"center"}} >
           <ReactBootStrap.CardGroup horizontal>
            <CardPerson src1="./docteur-nicolas-zwillinger-10-615x410.jpg" src2="./Dr_Zwillinger.jpeg"
             src3="./102963448_3175530212499376_5471271786858869558_o.jpg" title="DR NICOLAS ZWILLINGER" 
@@ -26,7 +26,7 @@ function Equipe(){
            bio="Il est Médecin anesthésiste-réanimateur" link="/Docteur_Caraco">
            </CardPerson>
           </ReactBootStrap.CardGroup>
-          </div>*/
+    </div>*/}
 		  equipe
         </FooterContainer>
     )
