@@ -23,7 +23,7 @@
     "react-simple-tree-menu": "^1.1.18",
     "styled-components": "^5.1.1"
   },
-  "homepage":"https://salimhassounawebsite.herokuapp.com/",
+  "homepage":"https://salim499.github.io//reactLipodemeSite",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
